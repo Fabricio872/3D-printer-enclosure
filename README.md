@@ -1,4 +1,7 @@
 # 3D printer enclosure
+![GitHub](https://img.shields.io/github/license/Fabricio872/3D-printer-enclosure)
+![GitHub Repo stars](https://img.shields.io/github/stars/Fabricio872/3D-printer-enclosure?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Fabricio872/3D-printer-enclosure)
  > Printed on Prusa mini
 ## Description
 3D printer enclosure with magnetic doors.
@@ -16,7 +19,7 @@
  - 2X 500mm x 500mm x 3mm plastic or wooden plate for bottom and back side
  - 4X 18mm X 5mm neodymium magnets
 
-## Needed parts
+## Needed printed parts
  - 4X edge.stl
  - 2X edgeFront.stl
  - 1X edgeHinge.stl
