@@ -1,7 +1,7 @@
 # 3D printer enclosure
  > Printed on Prusa mini
 ## Description
-#D printer enclosure with magnetic doors.
+3D printer enclosure with magnetic doors.
 
 ## Printing
  - no supports
