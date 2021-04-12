@@ -5,6 +5,7 @@
  > Printed on Prusa mini
 ## Description
 3D printer enclosure with magnetic doors.
+ > Find this model on [Thingverse](https://www.thingiverse.com/thing:4817116) or [GitHub](https://github.com/Fabricio872/3D-printer-enclosure)
 
 ## Printing
  - no supports
