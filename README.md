@@ -44,7 +44,7 @@
  1. Hinge assembly
 
       1. Insert nut into bottom of a hinge (hinge.stl) part with screwdriver
-      > put screw onto a nut it will help you keep nut strait as you will push it into bottom of a hinge
+      > put screw onto a nut it will help you keep nut straight as you will push it into bottom of a hinge
 
       ![Hinge nut insertion](/instructionImages/hingeNutInsertion.png)
 
